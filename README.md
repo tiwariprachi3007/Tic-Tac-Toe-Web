@@ -35,10 +35,10 @@ Tic-Tac-Toe-Web/
 ## ▶️ Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tiwariprachi3007/Tic-Tac-Toe-JS.git
+   git clone https://github.com/tiwariprachi3007/Tic-Tac-Toe-Web.git
    
 2. Navigate to the project folder:
-   cd Tic-Tac-Toe-JS
+   cd Tic-Tac-Toe-Web
 3.Open index.html in your browser.
 4.Start playing 🎉
 
